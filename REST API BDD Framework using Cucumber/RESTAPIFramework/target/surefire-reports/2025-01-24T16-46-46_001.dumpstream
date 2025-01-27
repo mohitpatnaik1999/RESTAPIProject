@@ -1,0 +1,5 @@
+# Created at 2025-01-24T16:46:46.356
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Mohit\API Testing using Rest Assured Java\REST API BDD Framework using Cucumber\RESTAPIFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
